@@ -1,6 +1,5 @@
-# Excel-Dashboard-for-Nokal-Shop
-This is my Excel Dashboard Project. it's is real life problem solving base project for my nearest city shop.
 # 📊 Excel Dashboard Project – Nokal Shop
+This is my Excel Dashboard Project. it's is real life problem solving base project for my nearest city shop.
 
 ## 🔹 Project Overview
 This project is an Electronic Shop Inventory Dashboard created in Microsoft Excel.
