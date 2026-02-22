@@ -12,8 +12,8 @@ It includes:
 - Salesman Performance
 
 ---
-## Data Sheet
--<a href="https://github.com/Aman-moniya/Excel-Dashboard-for-Nokal-Shop/blob/main/Elecctronic_Shop_Inventory_FOR_Nokal_Shop.xlsx>Data Sheet View</a>
+## Project Display Overview
+-<a href="https://github.com/Aman-moniya/Excel-Dashboard-for-Nokal-Shop/blob/main/Elecctronic_Shop_Inventory_FOR_Nokal_Shop.xlsx">Data Sheet View</a>
 ## 📌 Dashboard Preview
 
 ### Inventory Dashboard
